@@ -1,0 +1,6 @@
+README.md
+setup.py
+cfd.egg-info/PKG-INFO
+cfd.egg-info/SOURCES.txt
+cfd.egg-info/dependency_links.txt
+cfd.egg-info/top_level.txt
